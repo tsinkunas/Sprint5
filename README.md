@@ -1,8 +1,8 @@
-## Laravel - Sprint5
+# Laravel - Sprint5
 
-# CRUD Application
+## CRUD Application
 
-# Install and Check:
+## Install and Check:
 
 Clone the repository
 
